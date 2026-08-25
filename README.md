@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Senior Full Stack .NET Developer | ASP.NET Core | C# | SQL Server | Angular</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=620&lines=Senior+Full+Stack+.NET+Developer;ASP.NET+Core+8+Web+API+%7C+C%23+Specialist;JWT+Authentication+%26+Security+Architect;Entity+Framework+Core+8+%7C+SQL+Server;Angular+Frontend+%26+Full+Stack+Solutions;Clean+Architecture+%7C+SOLID+Principles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=620&lines=Senior+Full+Stack+.NET+Developer;MediCore+Healthcare+ERP+Architect;Retail+%7C+Fleet+Management+%7C+CMS+Systems;ASP.NET+Core+8+Web+API+%7C+C%23+Specialist;JWT+Authentication+%26+Security+Architect;Entity+Framework+Core+8+%7C+SQL+Server!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,38 +13,55 @@
 
 ### 👨‍💻 About Me
 
-Experienced **Senior Full Stack .NET Developer** with a proven track record of architecting, building, and deploying secure, high-performance web applications and enterprise RESTful APIs. I specialize in modern **.NET 8**, **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, and **Angular** frontends, with a strong focus on clean architecture, maintainable code, and bulletproof security.
+Experienced **Senior Full Stack .NET Developer** with 6+ years of expertise in architecting, developing, and deploying mission-critical enterprise systems. Architect of the comprehensive **MediCore Healthcare Platform** (Hospital ERP / EMR), alongside large-scale solutions in **Retail & eCommerce**, **Fleet & Logistics Management**, and **Enterprise ERP / CMS Platforms**.
+
+Specializing in **.NET 8**, **ASP.NET Core**, **C#**, **Entity Framework Core**, **SQL Server**, and **Angular**, with a relentless focus on clean architecture, high scalability, and HIPAA-compliant data security.
 
 - 🏢 **Company**: Berks Technologies
 - 📍 **Location**: Lahore, Pakistan
-- 💼 **Focus Areas**: Enterprise Web APIs, Microservices, Scalable Backend Architectures, JWT Authentication Systems
+- 💼 **Core Expertise**: Healthcare ERP & EMR Systems, Retail Integrations, Fleet Logistics, Enterprise APIs, JWT Security
+
+---
+
+### 🏥 Flagship Project: MediCore Healthcare System
+
+A complete, enterprise-grade Hospital Management & Healthcare Core ERP solution built with **ASP.NET Core**, **SQL Server**, **EF Core**, and **Angular**:
+
+- 🩺 **Electronic Medical Records (EMR / EHR)**: Complete digital patient health records, clinical history, vital signs tracking, and diagnosis logs.
+- 📅 **Doctor Consultation & Appointment Scheduling**: Real-time slot booking, doctor availability calendars, and department queues.
+- 💊 **Pharmacy & Inventory Management**: Medication stock tracking, expiry alerts, auto-reordering, and digital prescription fulfillment.
+- 🧪 **Laboratory & Diagnostic Management**: Pathology lab test orders, automated sample tracking, and digital diagnostic report delivery.
+- 💳 **Billing, Invoicing & Insurance Claims**: Automated hospital billing, OPD/IPD invoices, insurance claim processing, and receipt generation.
+- 🔐 **Role-Based Security & Audit Trails**: Multi-role authorization (Admin, Doctor, Nurse, Pharmacist, Cashier, Patient) with granular permission trees and audit logs.
+
+---
+
+### 🏢 Additional Enterprise Domain Solutions
+
+- 🛒 **Retail & eCommerce (PaperSource Integration)**: Multi-channel retail integration, automated inventory synchronization, order management, and payment gateway pipelines.
+- 🚚 **Fleet & Logistics Management System**: Real-time fleet vehicle tracking, dispatch management, driver scheduling, maintenance alerts, and fuel monitoring.
+- 📊 **Enterprise ERP & CMS Solutions**: Centralized business process automation, financial ledger modules, multi-role workflows, and content management.
 
 ---
 
 ### 🚀 What I'm Working On
-- ⚡ Architecting production-grade **ASP.NET Core 8 Web APIs** with JWT Bearer authentication and refresh token rotation.
-- 🛡 Implementing **Role-Based Access Control (RBAC)**, multi-tenant isolation, and defensive error-handling pipelines.
-- 🗄 Designing high-performance relational databases with **SQL Server** and **EF Core 8 Code-First** migrations.
-- 🌐 Building modern responsive web frontends using **Angular** and **TypeScript**.
+- ⚡ Architecting scalable **ASP.NET Core 8 Web APIs** with JWT Bearer authentication, refresh token rotation, and strict multi-tenant isolation.
+- 🛡 Designing **Role-Based Access Control (RBAC)**, HIPAA-compliant healthcare data security, and centralized fault-handling pipelines.
+- 🗄 Designing and tuning high-performance relational databases with **SQL Server** and **EF Core 8 Code-First** migrations.
+- 🌐 Developing responsive, modular web frontends using **Angular** and **TypeScript**.
 
 ---
 
 ### 🤝 Looking to Collaborate On
-- 🔹 Enterprise-level ASP.NET Core / .NET 8 REST APIs and microservices.
-- 🔹 Full-stack solutions combining Angular frontend with .NET Core backend.
-- 🔹 SQL Server database optimization, schema design, and complex query tuning.
-- 🔹 Cloud migration and Azure-hosted backend services.
-
----
-
-### 🌱 Currently Exploring & Mastering
-- ☁️ **Azure Cloud Architecture** (App Services, Azure SQL, Key Vault, API Management)
-- 🐳 **Docker Containerization** & Kubernetes orchestration for .NET microservices
-- 🔄 **CI/CD Pipelines** with GitHub Actions and Azure DevOps
+- 🔹 Healthcare / MedTech ERPs, Telemedicine, and EMR/EHR system integrations.
+- 🔹 Enterprise-level ASP.NET Core / .NET 8 Web APIs and Microservices.
+- 🔹 Full-Stack platforms combining Angular frontends with .NET Core backends.
+- 🔹 SQL Server database architecture, indexing strategies, and query performance tuning.
 
 ---
 
 ### 💬 Ask Me About
+- **Healthcare & Enterprise**: MediCore Architecture, Hospital Workflows, EMR Data Models, ERP Modules
 - **Backend**: ASP.NET Core 8, C#, Minimal APIs, Controllers, Middleware Pipelines
 - **Data & ORM**: EF Core 8, LINQ, SQL Server, Stored Procedures, Index Optimization
 - **Security**: JWT Bearer Tokens, Cryptographic Refresh Token Rotation, BCrypt Hashing, RBAC
@@ -106,33 +123,16 @@ Experienced **Senior Full Stack .NET Developer** with a proven track record of a
 
 ---
 
-### 📊 GitHub Activity & Statistics:
+### 🔥 Featured Projects & Industry Solutions:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waqarrasheed4444&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqarrasheed4444&theme=tokyonight&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqarrasheed4444&theme=tokyonight&hide_border=false&layout=compact" width="48%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waqarrasheed4444&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### 🔥 Featured Repositories:
-
-| Repository | Description | Technologies |
+| System / Project | Domain & Core Highlights | Tech Stack |
 |---|---|---|
-| 🗂 [**Task Manager API**](https://github.com/waqarrasheed4444/task-manager-api-net8) | Production-ready ASP.NET Core 8 Web API with JWT Authentication, Refresh Token Rotation, Role-Based Access Control, Task CRUD & Swagger | .NET 8, EF Core 8, SQL Server, JWT, C# |
-| 🏗 [**dotnet-clean-architecture-api**](https://github.com/waqarrasheed4444/dotnet-clean-architecture-api) | Enterprise-grade Clean Architecture implementation showcasing repository patterns and separation of concerns | C#, .NET, Web API |
-| 📦 [**Papersource-Integration**](https://github.com/waqarrasheed4444/Papersource-Integration) | Full-stack web integration and data processing platform | JavaScript, REST APIs |
+| 🏥 **MediCore Healthcare System** | **Flagship Healthcare ERP**: EMR/EHR, doctor appointments, pharmacy inventory, lab pathology & medical billing | .NET Core, SQL Server, Angular, JWT |
+| 🛒 [**PaperSource Integration**](https://github.com/waqarrasheed4444/Papersource-Integration) | **Retail & eCommerce Platform**: Multi-store inventory sync, automated product cataloging & payment integrations | ASP.NET Core, JavaScript, REST APIs |
+| 🚚 **Fleet Management System** | **Logistics & Dispatch Platform**: Real-time vehicle tracking, maintenance schedules, driver management & route planning | C#, ASP.NET Core, SQL Server |
+| 📊 [**CMS & Enterprise ERP**](https://github.com/waqarrasheed4444/CMSMANAGMENT) | **Enterprise Resource Planning**: Business process automation, financial ledger modules, inventory & content management | ASP.NET Core, Angular, SQL Server |
+| 🗂 [**Task Manager Web API**](https://github.com/waqarrasheed4444/task-manager-api-net8) | **Modern Backend API**: JWT Auth with Refresh Tokens, Role-Based Access Control, Task CRUD & Swagger documentation | .NET 8, EF Core 8, SQL Server, JWT |
+| 🏗 [**dotnet-clean-architecture-api**](https://github.com/waqarrasheed4444/dotnet-clean-architecture-api) | **Clean Architecture Showcase**: Separation of concerns with repository patterns, DTOs & dependency injection | C#, .NET 8, Web API |
 
 ---
 

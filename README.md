@@ -1,142 +1,95 @@
-<h1 align="center">Hi 👋, I'm Waqar Hussain</h1>
-<h3 align="center">🚀 Senior Full Stack .NET Developer | ASP.NET Core | C# | SQL Server | Angular</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=620&lines=Senior+Full+Stack+.NET+Developer;MediCore+Healthcare+ERP+Architect;Retail+%7C+Fleet+Management+%7C+CMS+Systems;ASP.NET+Core+8+Web+API+%7C+C%23+Specialist;JWT+Authentication+%26+Security+Architect;Entity+Framework+Core+8+%7C+SQL+Server!" alt="Typing SVG" />
-</p>
+# Waqar Hussain
+### **Senior Full Stack .NET Developer**
+**ASP.NET Core • C# • Angular • SQL Server • EF Core • Azure • Clean Architecture**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waqarrasheed4444&label=Profile%20Views&color=0078D4&style=flat-square" alt="Profile Views" />
-</p>
+📍 *Lahore, Pakistan* &nbsp;
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqarhussain786/)
+[![GitHub](https://img.shields.io/badge/GitHub-waqarrasheed4444-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqarrasheed4444)
 
-### 👨‍💻 About Me
-
-Experienced **Senior Full Stack .NET Developer** with 6+ years of expertise in architecting, developing, and deploying mission-critical enterprise systems. Architect of the comprehensive **MediCore Healthcare Platform** (Hospital ERP / EMR), alongside large-scale solutions in **Retail & eCommerce**, **Fleet & Logistics Management**, and **Enterprise ERP / CMS Platforms**.
-
-Specializing in **.NET 8**, **ASP.NET Core**, **C#**, **Entity Framework Core**, **SQL Server**, and **Angular**, with a relentless focus on clean architecture, high scalability, and HIPAA-compliant data security.
-
-- 🏢 **Company**: Berks Technologies
-- 📍 **Location**: Lahore, Pakistan
-- 💼 **Core Expertise**: Healthcare ERP & EMR Systems, Retail Integrations, Fleet Logistics, Enterprise APIs, JWT Security
+</div>
 
 ---
 
-### 🏥 Flagship Project: MediCore Healthcare System
+### 👨‍💻 Executive Summary
 
-A complete, enterprise-grade Hospital Management & Healthcare Core ERP solution built with **ASP.NET Core**, **SQL Server**, **EF Core**, and **Angular**:
+Senior Full Stack .NET Developer with **6+ years of commercial software engineering experience** developing and deploying production enterprise web applications. Specialized in architecting high-performance **ASP.NET Core 8 Web APIs**, scalable cloud architectures, and modern **Angular** web frontends.
 
-- 🩺 **Electronic Medical Records (EMR / EHR)**: Complete digital patient health records, clinical history, vital signs tracking, and diagnosis logs.
-- 📅 **Doctor Consultation & Appointment Scheduling**: Real-time slot booking, doctor availability calendars, and department queues.
-- 💊 **Pharmacy & Inventory Management**: Medication stock tracking, expiry alerts, auto-reordering, and digital prescription fulfillment.
-- 🧪 **Laboratory & Diagnostic Management**: Pathology lab test orders, automated sample tracking, and digital diagnostic report delivery.
-- 💳 **Billing, Invoicing & Insurance Claims**: Automated hospital billing, OPD/IPD invoices, insurance claim processing, and receipt generation.
-- 🔐 **Role-Based Security & Audit Trails**: Multi-role authorization (Admin, Doctor, Nurse, Pharmacist, Cashier, Patient) with granular permission trees and audit logs.
+- 🏛️ **Architecture & Design**: Clean / Onion Architecture, CQRS with MediatR, Repository & Unit of Work patterns, SOLID principles, and RESTful API standards.
+- 🔐 **Security & Identity**: JWT Bearer authentication, cryptographic refresh token rotation, password hashing, and granular Role-Based Access Control (RBAC).
+- 🗄️ **Database & Performance**: Entity Framework Core 8 Code-First, complex LINQ queries, SQL Server stored procedures, indexing optimization, and query tuning.
+- 💳 **Integrations**: Stripe payment processing, secure webhook handling, and third-party RESTful API integrations.
 
 ---
 
-### 🏢 Additional Enterprise Domain Solutions
+### 🔥 Public Code Showcases & Repositories
 
-- 🛒 **Retail & eCommerce (PaperSource Integration)**: Multi-channel retail integration, automated inventory synchronization, order management, and payment gateway pipelines.
-- 🚚 **Fleet & Logistics Management System**: Real-time fleet vehicle tracking, dispatch management, driver scheduling, maintenance alerts, and fuel monitoring.
-- 📊 **Enterprise ERP & CMS Solutions**: Centralized business process automation, financial ledger modules, multi-role workflows, and content management.
-
----
-
-### 🚀 What I'm Working On
-- ⚡ Architecting scalable **ASP.NET Core 8 Web APIs** with JWT Bearer authentication, refresh token rotation, and strict multi-tenant isolation.
-- 🛡 Designing **Role-Based Access Control (RBAC)**, HIPAA-compliant healthcare data security, and centralized fault-handling pipelines.
-- 🗄 Designing and tuning high-performance relational databases with **SQL Server** and **EF Core 8 Code-First** migrations.
-- 🌐 Developing responsive, modular web frontends using **Angular** and **TypeScript**.
-
----
-
-### 🤝 Looking to Collaborate On
-- 🔹 Healthcare / MedTech ERPs, Telemedicine, and EMR/EHR system integrations.
-- 🔹 Enterprise-level ASP.NET Core / .NET 8 Web APIs and Microservices.
-- 🔹 Full-Stack platforms combining Angular frontends with .NET Core backends.
-- 🔹 SQL Server database architecture, indexing strategies, and query performance tuning.
-
----
-
-### 💬 Ask Me About
-- **Healthcare & Enterprise**: MediCore Architecture, Hospital Workflows, EMR Data Models, ERP Modules
-- **Backend**: ASP.NET Core 8, C#, Minimal APIs, Controllers, Middleware Pipelines
-- **Data & ORM**: EF Core 8, LINQ, SQL Server, Stored Procedures, Index Optimization
-- **Security**: JWT Bearer Tokens, Cryptographic Refresh Token Rotation, BCrypt Hashing, RBAC
-- **Architecture**: Clean Architecture, Repository Pattern, CQRS, SOLID Principles
-- **Frontend**: Angular, TypeScript, RxJS, Responsive UI/UX
-
----
-
-### 🌐 Connect With Me:
-<p align="left">
-  <a href="https://linkedin.com/in/waqarhussain786" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/waqarrasheed4444" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🛠 Tech Stack & Tools:
-
-#### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%208-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-%230078D4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-#### 🗄 Databases & ORM
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core%208-%230078D4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSMS-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-#### 🔐 Security, APIs & Architecture
-<p align="left">
-  <img src="https://img.shields.io/badge/JWT%20Tokens-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-  <img src="https://img.shields.io/badge/BCrypt-%23FF6C37.svg?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful%20APIs-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
-#### ⚙️ DevOps & Developer Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio%202022-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
-
----
-
-### 🔥 Featured Projects & Industry Solutions:
-
-| System / Project | Domain & Core Highlights | Tech Stack |
+| Repository | Focus & Architecture | Tech Stack |
 |---|---|---|
-| 🏥 **MediCore Healthcare System** | **Flagship Healthcare ERP**: EMR/EHR, doctor appointments, pharmacy inventory, lab pathology & medical billing | .NET Core, SQL Server, Angular, JWT |
-| 🛒 [**PaperSource Integration**](https://github.com/waqarrasheed4444/Papersource-Integration) | **Retail & eCommerce Platform**: Multi-store inventory sync, automated product cataloging & payment integrations | ASP.NET Core, JavaScript, REST APIs |
-| 🚚 **Fleet Management System** | **Logistics & Dispatch Platform**: Real-time vehicle tracking, maintenance schedules, driver management & route planning | C#, ASP.NET Core, SQL Server |
-| 📊 [**CMS & Enterprise ERP**](https://github.com/waqarrasheed4444/CMSMANAGMENT) | **Enterprise Resource Planning**: Business process automation, financial ledger modules, inventory & content management | ASP.NET Core, Angular, SQL Server |
-| 🗂 [**Task Manager Web API**](https://github.com/waqarrasheed4444/task-manager-api-net8) | **Modern Backend API**: JWT Auth with Refresh Tokens, Role-Based Access Control, Task CRUD & Swagger documentation | .NET 8, EF Core 8, SQL Server, JWT |
-| 🏗 [**dotnet-clean-architecture-api**](https://github.com/waqarrasheed4444/dotnet-clean-architecture-api) | **Clean Architecture Showcase**: Separation of concerns with repository patterns, DTOs & dependency injection | C#, .NET 8, Web API |
+| 🏛️ [**dotnet-clean-architecture-api**](https://github.com/waqarrasheed4444/dotnet-clean-architecture-api) | **Enterprise Clean Architecture**: 4-layer architecture, CQRS with MediatR, FluentValidation pipeline, RFC 7807 error handling, and xUnit test suite. | `C#` `.NET 8` `MediatR` `EF Core` `xUnit` `Docker` |
+| 💳 [**aspnetcore-stripe-payment-system**](https://github.com/waqarrasheed4444/aspnetcore-stripe-payment-system) | **Payment Gateway Integration**: Stripe Checkout, Payment Intents API, secure webhook signature verification, and transaction logging. | `ASP.NET Core` `C#` `Stripe SDK` `SQL Server` |
+| 🔐 [**task-manager-api-net8**](https://github.com/waqarrasheed4444/task-manager-api-net8) | **Authentication & Security**: Robust JWT authentication, refresh token rotation, multi-role authorization, and task lifecycle management. | `.NET 8` `EF Core 8` `JWT` `SQL Server` `Swagger` |
+| 🔌 [**Papersource-Integration**](https://github.com/waqarrasheed4444/Papersource-Integration) | **API Integration Platform**: Multi-store retail inventory synchronization, automated product catalog pipelines, and REST services. | `ASP.NET Core` `JavaScript` `REST APIs` |
+| 📊 [**CMS & Enterprise ERP**](https://github.com/waqarrasheed4444/CMSMANAGMENT) | **Business Process Automation**: Modular enterprise ERP system featuring financial ledger tracking, multi-tier permissions, and digital asset management. | `ASP.NET Core` `Angular` `SQL Server` |
 
 ---
 
-### 💡 Favorite Engineering Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+### 🏥 Enterprise Domain Case Studies
+
+#### 1. MediCore Healthcare System *(Flagship ERP / EMR Platform)*
+Engineered core backend APIs, clinical workflows, and database architecture for a comprehensive hospital management and Electronic Medical Records platform using **ASP.NET Core**, **SQL Server**, and **Angular**:
+- **Electronic Health Records (EHR)**: Clinical workflows, digital patient records, diagnosis logs, and lab pathology report pipelines.
+- **Appointments & Doctor Scheduling**: Real-time consultation slot management and multi-department queue handling.
+- **Pharmacy & Inventory Management**: Automated stock deduction, batch expiry tracking, and prescription fulfillment.
+- **Enterprise Security**: Multi-role permission trees (Admin, Doctor, Nurse, Pharmacist, Billing) with audit logging and sensitive data isolation.
+
+#### 2. Fleet & Logistics Dispatch Management
+- Built a vehicle dispatch and fleet tracking engine handling maintenance scheduling, driver logs, fuel metrics, and automated trip allocation.
+
+---
+
+### 🛠 Tech Stack & Core Competencies
+
+#### **Backend & Cloud**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core 8](https://img.shields.io/badge/EF_Core_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR_(CQRS)-blue?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### **Databases & ORM**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+#### **Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### **Testing & Developer Tools**
+![xUnit](https://img.shields.io/badge/xUnit-brightgreen?style=for-the-badge&logo=xunit)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-B71C1C?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger_(OpenAPI)-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waqarrasheed4444&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Waqar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqarrasheed4444&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & maintained by <strong>Waqar Hussain</strong> • Senior Full Stack .NET Developer</sub>
+</div>

@@ -2,7 +2,7 @@
 
 # Waqar Hussain
 ### **Senior Full Stack .NET Developer**
-**ASP.NET Core • C# • Angular • SQL Server • EF Core • Azure • Clean Architecture**
+**ASP.NET Core • C# • Angular • React • SQL Server • EF Core • Azure • Clean Architecture**
 
 📍 *Lahore, Pakistan* &nbsp;|&nbsp; 
 

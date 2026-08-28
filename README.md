@@ -4,7 +4,7 @@
 ### **Senior Full Stack .NET Developer**
 **ASP.NET Core • C# • Angular • SQL Server • EF Core • Azure • Clean Architecture**
 
-📍 *Lahore, Pakistan* &nbsp;
+📍 *Lahore, Pakistan* &nbsp;|&nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqarhussain786/)
 [![GitHub](https://img.shields.io/badge/GitHub-waqarrasheed4444-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqarrasheed4444)
@@ -78,15 +78,6 @@ Engineered core backend APIs, clinical workflows, and database architecture for 
 ![Swagger](https://img.shields.io/badge/Swagger_(OpenAPI)-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waqarrasheed4444&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Waqar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqarrasheed4444&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-</div>
 
 ---
 

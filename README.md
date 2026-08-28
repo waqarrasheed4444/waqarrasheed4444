@@ -4,7 +4,7 @@
 ### **Senior Full Stack .NET Developer**
 **ASP.NET Core • C# • Angular • SQL Server • EF Core • Azure • Clean Architecture**
 
-📍 *Lahore, Pakistan* &nbsp;|&nbsp;
+📍 *Lahore, Pakistan* &nbsp;|&nbsp; 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqarhussain786/)
 [![GitHub](https://img.shields.io/badge/GitHub-waqarrasheed4444-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqarrasheed4444)
@@ -15,11 +15,12 @@
 
 ### 👨‍💻 Executive Summary
 
-Senior Full Stack .NET Developer with **6+ years of commercial software engineering experience** developing and deploying production enterprise web applications. Specialized in architecting high-performance **ASP.NET Core 8 Web APIs**, scalable cloud architectures, and modern **Angular** web frontends.
+Senior Full Stack .NET Developer with **6+ years of commercial software engineering experience** developing, modernizing, and deploying production enterprise web applications. Specialized in building high-performance **ASP.NET Core 8 Web APIs**, modern **Angular** frontends, and maintaining/migrating enterprise **ASP.NET Web Forms & MVC** systems.
 
 - 🏛️ **Architecture & Design**: Clean / Onion Architecture, CQRS with MediatR, Repository & Unit of Work patterns, SOLID principles, and RESTful API standards.
+- 🔄 **Modernization & Migration**: Upgrading legacy .NET Framework & ASP.NET Web Forms applications to modern, high-performance .NET 8 Core architectures.
 - 🔐 **Security & Identity**: JWT Bearer authentication, cryptographic refresh token rotation, password hashing, and granular Role-Based Access Control (RBAC).
-- 🗄️ **Database & Performance**: Entity Framework Core 8 Code-First, complex LINQ queries, SQL Server stored procedures, indexing optimization, and query tuning.
+- 🗄️ **Database Engineering**: Advanced schema design, query optimization, and ORM mapping across **SQL Server**, **PostgreSQL**, and **MySQL**.
 - 💳 **Integrations**: Stripe payment processing, secure webhook handling, and third-party RESTful API integrations.
 
 ---
@@ -31,7 +32,7 @@ Senior Full Stack .NET Developer with **6+ years of commercial software engineer
 | 🏛️ [**dotnet-clean-architecture-api**](https://github.com/waqarrasheed4444/dotnet-clean-architecture-api) | **Enterprise Clean Architecture**: 4-layer architecture, CQRS with MediatR, FluentValidation pipeline, RFC 7807 error handling, and xUnit test suite. | `C#` `.NET 8` `MediatR` `EF Core` `xUnit` `Docker` |
 | 💳 [**aspnetcore-stripe-payment-system**](https://github.com/waqarrasheed4444/aspnetcore-stripe-payment-system) | **Payment Gateway Integration**: Stripe Checkout, Payment Intents API, secure webhook signature verification, and transaction logging. | `ASP.NET Core` `C#` `Stripe SDK` `SQL Server` |
 | 🔐 [**task-manager-api-net8**](https://github.com/waqarrasheed4444/task-manager-api-net8) | **Authentication & Security**: Robust JWT authentication, refresh token rotation, multi-role authorization, and task lifecycle management. | `.NET 8` `EF Core 8` `JWT` `SQL Server` `Swagger` |
-| 🔌 [**Papersource-Integration**](https://github.com/waqarrasheed4444/Papersource-Integration) | **API Integration Platform**: Multi-store retail inventory synchronization, automated product catalog pipelines, and REST services. | `ASP.NET Core` `JavaScript` `REST APIs` |
+| 🔌 [**Papersource-Integration**](https://github.com/waqarrasheed4444/Papersource-Integration) | **Retail & Inventory Integration**: Multi-store retail inventory synchronization, automated product catalog pipelines, and REST API services. | `ASP.NET Web Forms` `C#` `.NET` `REST APIs` |
 | 📊 [**CMS & Enterprise ERP**](https://github.com/waqarrasheed4444/CMSMANAGMENT) | **Business Process Automation**: Modular enterprise ERP system featuring financial ledger tracking, multi-tier permissions, and digital asset management. | `ASP.NET Core` `Angular` `SQL Server` |
 
 ---
@@ -56,6 +57,7 @@ Engineered core backend APIs, clinical workflows, and database architecture for 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Web Forms](https://img.shields.io/badge/ASP.NET_WebForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core 8](https://img.shields.io/badge/EF_Core_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MediatR](https://img.shields.io/badge/MediatR_(CQRS)-blue?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -63,6 +65,8 @@ Engineered core backend APIs, clinical workflows, and database architecture for 
 
 #### **Databases & ORM**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### **Frontend**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)

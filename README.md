@@ -87,7 +87,6 @@ Engineered core backend APIs, clinical workflows, and database architecture for 
 ---
 
 <div align="center">
-  ### 👀 Profile Visitors
 
 <img src="https://komarev.com/ghpvc/?username=waqarrasheed4444&label=Profile%20Views&style=for-the-badge" alt="Waqar Hussain profile views" />
 

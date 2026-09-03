@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqarhussain786/)
 [![GitHub](https://img.shields.io/badge/GitHub-waqarrasheed4444-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqarrasheed4444)
-
+[![Email](https://img.shields.io/badge/Email-waqarrasheed4444%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqarrasheed4444@gmail.com?subject=Enterprise%20Project%20Inquiry)
 </div>
 
 ---

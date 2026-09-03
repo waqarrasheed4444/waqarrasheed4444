@@ -8,10 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqarhussain786/)
 [![GitHub](https://img.shields.io/badge/GitHub-waqarrasheed4444-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqarrasheed4444)
-&nbsp;&nbsp;
-<a href="mailto:waqarrasheed4444@gmail.com?subject=Enterprise%20Project%20Inquiry">
-  <img src="https://img.shields.io/badge/Email-waqarrasheed4444%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923044576934)
+[![Email](https://img.shields.io/badge/Email-waqarrasheed4444%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqarrasheed4444@gmail.com)
 </div>
 
 ---
